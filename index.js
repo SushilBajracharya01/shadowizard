@@ -14,6 +14,9 @@ function shadowizzar(options) {
         if( options.padding) {
             component.style.padding= "1em";
         }
+        else {
+            component.style.padding= "0px";
+        }
     })
 }
 
