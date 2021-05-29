@@ -1,0 +1,24 @@
+{
+  "name": "shadowizzar",
+  "version": "1.0.0",
+  "description": "Learning from Gary Simon @DesignCourse, Shadowizzar is copy of shadowizard",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SushilBajracharya01/shadowizard.git"
+  },
+  "keywords": [
+    "javascript",
+    "design",
+    "shadows"
+  ],
+  "author": "Sushil Bajracharya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SushilBajracharya01/shadowizard/issues"
+  },
+  "homepage": "https://github.com/SushilBajracharya01/shadowizard#readme"
+}

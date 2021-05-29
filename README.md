@@ -1,22 +1,22 @@
-# Shadowizard
+# Shadowizzar
 
 Get perfect shadows every time for the non-designer.
 
 
 # Instalation
 
-`npm i shadowizard --save`
+`npm i shadowizzar --save`
 
 or 
 
-`yarn add shadowizard`
+`yarn add shadowizzar`
 
 
 # Usage
 ```
-    import { shadowizard } from 'shadowizard;
+    import { shadowizzar } from 'shadowizzar;
 
-    shadowizard({
+    shadowizzar({
         shadow_type: 'hard',
         padding: false
     })
@@ -25,7 +25,7 @@ or
 
 # Options
 
-Shadowizard supports 2 options, oth of which are optional:
+shadowizzar supports 2 options, oth of which are optional:
 
 * *shadow_type* - _hard | soft_  (Default is soft)
 * *padding* - _boolean_  (Default is false)
