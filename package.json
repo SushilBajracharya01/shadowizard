@@ -1,6 +1,6 @@
 {
   "name": "shadowizzar",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Learning from Gary Simon @DesignCourse, Shadowizzar is copy of shadowizard",
   "main": "index.js",
   "scripts": {

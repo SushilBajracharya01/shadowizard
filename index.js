@@ -1,5 +1,5 @@
-function shadowizard(options) {
-    let componets  = document.querySelectorAll('.shadowizard');
+function shadowizzar(options) {
+    let componets  = document.querySelectorAll('.shadowizzar');
 
     if (options.shadow_type === "hard") {
         options.shadow_type = "0px";
@@ -17,4 +17,4 @@ function shadowizard(options) {
     })
 }
 
-module.exports.shadowizard = shadowizard;
+module.exports.shadowizzar = shadowizzar;
